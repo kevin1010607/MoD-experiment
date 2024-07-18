@@ -1,0 +1,4 @@
+fire
+transformers
+accelerate
+huggingface_hub[cli]
